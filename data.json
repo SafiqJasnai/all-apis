@@ -1,142 +1,224 @@
-{
-    "data": [   
-        {
-            "category": "Fruits & vegetables",
-            "title": "Brussels Sprouts",
-            "description": "This delicious and nutritious dish is a crowd pleaser for the whole family!",
-            "ingredients": [
-                {
-                    "ingredients": "1 pound Brussels sprouts, trimmed and cut in quarters"
-                },
-                {
-                    "ingredients": "1 tablespoon vegetable oil"
-                },
-                {
-                    "ingredients": "2 teaspoons lemon juice"
-                },
-                {
-                    "ingredients": "1 garlic clove, minced"
-                },
-                {
-                    "ingredients": "salt and pepper to taste"
-                }
-            ],
-            "instructions": [
-                {
-                    "instructions": "Place Brussels sprouts and 1/2 cup water into a medium pot."
-                },
-                {
-                    "instructions": "Cover the pot and cook over high heat for 5 minutes or until the Brussels sprouts are tender."
-                },
-                {
-                    "instructions": "Drain the Brussels sprouts and transfer them to a bowl."
-                },
-                {
-                    "instructions": "Add the oil, lemon juice and garlic to the bowl. Toss to combine."
-                },
-                {
-                    "instructions": "Add salt and pepper to taste. Enjoy!"
-                },
-                {
-                    "instructions": "Refrigerate leftovers."
-                }
-            ]
-        },
-        {
-            "category": "Fruits & vegetables",
-            "title": "Honey Lime Rainbow Fruit Salad",
-            "description": "The BEST Fruit Salad with a sweet and bright honey lime dressing!",
-            "ingredients": [
-                {
-                    "ingredients": "Strawberries"
-                },
-                {
-                    "ingredients": "Pineapple"
-                },
-                {
-                    "ingredients": "Blueberries"
-                },
-                {
-                    "ingredients": "Red grapes"
-                },
-                {
-                    "ingredients": "Kiwi"
-                },
-                {
-                    "ingredients": "Mandarin oranges"
-                },
-                {
-                    "ingredients": "Bananas"
-                },
-                {
-                    "ingredients": "Honey"
-                },
-                {
-                    "ingredients": "Limes"
-                }
-            ],
-            "instructions": [
-                {
-                    "instructions": "Prepare fruit: chop fruits (except blueberries) and add to a large mixing bowl."
-                },
-                {
-                    "instructions": "Make dressing: in a small mixing bowl, whisk together they honey, lime zest and lime juice."
-                },
-                {
-                    "instructions": "Toss fruit with dressing: pour dressing over fruit just before serving and toss to evenly coat."
-                },
-                {
-                    "instructions": "Easy as that!"
-                }
-            ]
-        },
-        {
-            "category": "Fruits & vegetables",
-            "title": "Apple and Fig Salad",
-            "description": "Photo Credit: “green apple salad” by Spirit-Fire / CC BY 2.0",
-            "ingredients": [
-                {
-                    "ingredients": "3 apples, cored and thinly sliced"
-                },
-                {
-                    "ingredients": "1 cup (about 20) dried figs, stems removed and chopped"
-                },
-                {
-                    "ingredients": "1 head of romaine lettuce, chopped"
-                },
-                {
-                    "ingredients": "2 tablespoons vinegar"
-                },
-                {
-                    "ingredients": "2 tablespoons vegetable oil"
-                },
-                {
-                    "ingredients": "1 teaspoon mustard"
-                },
-                {
-                    "ingredients": "1 tablespoon lemon juice"
-                },
-                {
-                    "ingredients": "Salt and pepper to taste"
-                }
-            ],
-            "instructions": [
-                {
-                    "instructions": "In a large bowl, toss together the apples, figs and lettuce."
-                },
-                {
-                    "instructions": "In a small bowl, stir together the oil, vinegar, mustard and lemon juice."
-                },
-                {
-                    "instructions": "Pour mixture over lettuce and toss."
-                },
-                {
-                    "instructions": "Serve and enjoy!"
-                },
-                {
-                    "instructions": "Refrigerate leftovers."
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        category: 'Fruits & vegetables',
+        title: 'Brussels Sprouts',
+        description: 'This delicious and nutritious dish is a crowd pleaser for the whole family!',
+        ingredients: [
+            {
+                ingredients: '1 pound Brussels sprouts, trimmed and cut in quarters'
+            },
+            {
+                ingredients: '1 tablespoon vegetable oil'
+            },
+            {
+                ingredients: '2 teaspoons lemon juice'
+            },
+            {
+                ingredients: '1 garlic clove, minced'
+            },
+            {
+                ingredients: 'salt and pepper to taste'
+            },
+        ],
+        instructions: [
+            {
+                instructions: 'Place Brussels sprouts and 1/2 cup water into a medium pot.'
+            },
+            {
+                instructions: 'Cover the pot and cook over high heat for 5 minutes or until the Brussels sprouts are tender.'
+            },
+            {
+                instructions: 'Drain the Brussels sprouts and transfer them to a bowl.'
+            },
+            {
+                instructions: 'Add the oil, lemon juice and garlic to the bowl. Toss to combine.'
+            },
+            {
+                instructions: 'Add salt and pepper to taste. Enjoy!'
+            },
+            {
+                instructions: 'Refrigerate leftovers.'
+            },
+        ]
+    },
+    {
+        category: 'Fruits & vegetables',
+        title: 'Honey Lime Rainbow Fruit Salad',
+        description: 'The BEST Fruit Salad with a sweet and bright honey lime dressing!',
+        ingredients: [
+            {
+                ingredients: 'Strawberries'
+            },
+            {
+                ingredients: 'Pineapple'
+            },
+            {
+                ingredients: 'Blueberries'
+            },
+            {
+                ingredients: 'Red grapes'
+            },
+            {
+                ingredients: 'Kiwi'
+            },
+            {
+                ingredients: 'Mandarin oranges'
+            },
+            {
+                ingredients: 'Bananas'
+            },
+            {
+                ingredients: 'Honey'
+            },
+            {
+                ingredients: 'Limes'
+            },
+        ],
+        instructions: [
+            {
+                instructions: 'Prepare fruit: chop fruits (except blueberries) and add to a large mixing bowl.'
+            },
+            {
+                instructions: 'Make dressing: in a small mixing bowl, whisk together they honey, lime zest and lime juice.'
+            },
+            {
+                instructions: 'Toss fruit with dressing: pour dressing over fruit just before serving and toss to evenly coat.'
+            },
+            {
+                instructions: 'Easy as that!'
+            }
+        ]
+    },
+    {
+        category: 'Fruits & vegetables',
+        title: 'Apple and Fig Salad',
+        description: 'Photo Credit: “green apple salad” by Spirit-Fire / CC BY 2.0',
+        ingredients: [
+            {
+                ingredients: '3 apples, cored and thinly sliced'
+            },
+            {
+                ingredients: '1 cup (about 20) dried figs, stems removed and chopped'
+            },
+            {
+                ingredients: '1 head of romaine lettuce, chopped'
+            },
+            {
+                ingredients: '2 tablespoons vinegar'
+            },
+            {
+                ingredients: '2 tablespoons vegetable oil'
+            },
+            {
+                ingredients: '1 teaspoon mustard'
+            },
+            {
+                ingredients: '1 tablespoon lemon juice'
+            },
+            {
+                ingredients: 'Salt and pepper to taste'
+            },
+        ],
+        instructions: [
+            {
+                instructions: 'In a large bowl, toss together the apples, figs and lettuce.'
+            },
+            {
+                instructions: 'In a small bowl, stir together the oil, vinegar, mustard and lemon juice.'
+            },
+            {
+                instructions: 'Pour mixture over lettuce and toss.'
+            },
+            {
+                instructions: 'Serve and enjoy!'
+            },
+            {
+                instructions: 'Refrigerate leftovers.'
+            }
+        ]
+    },
+    {
+        category: 'Fruits & vegetables',
+        title: 'Brussels Sprouts',
+        description: 'This delicious and nutritious dish is a crowd pleaser for the whole family!',
+        ingredients: [
+            {
+                ingredients: '1 pound Brussels sprouts, trimmed and cut in quarters'
+            },
+            {
+                ingredients: '1 tablespoon vegetable oil'
+            },
+            {
+                ingredients: '2 teaspoons lemon juice'
+            },
+            {
+                ingredients: '1 garlic clove, minced'
+            },
+            {
+                ingredients: 'salt and pepper to taste'
+            },
+        ],
+        instructions: [
+            {
+                instructions: 'Place Brussels sprouts and 1/2 cup water into a medium pot.'
+            },
+            {
+                instructions: 'Cover the pot and cook over high heat for 5 minutes or until the Brussels sprouts are tender.'
+            },
+            {
+                instructions: 'Drain the Brussels sprouts and transfer them to a bowl.'
+            },
+            {
+                instructions: 'Add the oil, lemon juice and garlic to the bowl. Toss to combine.'
+            },
+            {
+                instructions: 'Add salt and pepper to taste. Enjoy!'
+            },
+            {
+                instructions: 'Refrigerate leftovers.'
+            },
+        ]
+    },
+    {
+        category: 'Fruits & vegetables',
+        title: 'Brussels Sprouts',
+        description: 'This delicious and nutritious dish is a crowd pleaser for the whole family!',
+        ingredients: [
+            {
+                ingredients: '1 pound Brussels sprouts, trimmed and cut in quarters'
+            },
+            {
+                ingredients: '1 tablespoon vegetable oil'
+            },
+            {
+                ingredients: '2 teaspoons lemon juice'
+            },
+            {
+                ingredients: '1 garlic clove, minced'
+            },
+            {
+                ingredients: 'salt and pepper to taste'
+            },
+        ],
+        instructions: [
+            {
+                instructions: 'Place Brussels sprouts and 1/2 cup water into a medium pot.'
+            },
+            {
+                instructions: 'Cover the pot and cook over high heat for 5 minutes or until the Brussels sprouts are tender.'
+            },
+            {
+                instructions: 'Drain the Brussels sprouts and transfer them to a bowl.'
+            },
+            {
+                instructions: 'Add the oil, lemon juice and garlic to the bowl. Toss to combine.'
+            },
+            {
+                instructions: 'Add salt and pepper to taste. Enjoy!'
+            },
+            {
+                instructions: 'Refrigerate leftovers.'
+            },
+        ]
+    },
+]
